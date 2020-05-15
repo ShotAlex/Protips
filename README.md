@@ -1,3 +1,3 @@
 # Protips
 Website for portfolio
-[Website](https://shotalex.github.io/Protips/)
+[Link](https://shotalex.github.io/Protips/)
